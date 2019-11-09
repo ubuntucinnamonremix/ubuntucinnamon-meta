@@ -1,8 +1,3 @@
-minimal elementary-minimal
-standard elementary-standard
-desktop elementary-desktop
-artwork elementary-artwork
-pantheon-shell pantheon-shell
-pantheon pantheon
-live elementary-live
-elementary-sdk elementary-sdk
+minimal ubuntucinnamon-minimal
+standard ubuntucinnamon-standard
+desktop ubuntucinnamon-desktop

@@ -1,16 +1,16 @@
-Source: elementary-meta
+Source: ubuntucinnamon-meta
 Section: metapackages
 Priority: optional
-Maintainer: Cody Garver <cody@elementary.io>
-Standards-Version: 3.9.5
+Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+Standards-Version: 4.4.0
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
-Package: elementary-minimal
-Architecture: amd64 arm64 armhf
+Package: ubuntucinnamon-minimal
+Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Minimal core of elementary OS
- This metapackage depends on all of the packages in the elementary minimal system,
+Description: Minimal core of ubuntucinnamon OS
+ This metapackage depends on all of the packages in the ubuntucinnamon minimal system,
  that is a functional command-line system with the following capabilities:
  .
   - Boot
@@ -22,12 +22,12 @@ Description: Minimal core of elementary OS
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: elementary-standard
-Architecture: amd64 arm64 armhf
+Package: ubuntucinnamon-standard
+Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: CLI-only components of elementary OS
- This metapackage depends on most of non-GUI packages from elementary OS.
+Description: CLI-only components of ubuntucinnamon OS
+ This metapackage depends on most of non-GUI packages from ubuntucinnamon OS.
  .
  This set of packages provides a comfortable command-line Unix-like
  environment.
@@ -35,60 +35,12 @@ Description: CLI-only components of elementary OS
  It is used to ensure proper upgrades, so it is recommended that it not be
  removed.
 
-Package: elementary-desktop
-Architecture: amd64 arm64 armhf
+Package: ubuntucinnamon-desktop
+Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Complete desktop of elementary OS
- This metapackage installs the complete elementary desktop.
+Description: Complete desktop of ubuntucinnamon OS
+ This metapackage installs the complete ubuntucinnamon desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
-
-Package: elementary-artwork
-Architecture: amd64 arm64 armhf
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: Artwork of elementary OS
- This metapackage installs the acclaimed elementary desktop artwork.
- .
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
-
-Package: pantheon-shell
-Architecture: amd64 arm64 armhf
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: Modern and modular DE-independent desktop shell
- Pantheon Shell is a modern and modular DE-independent desktop shell
- developed by elementary Project.
- .
- This metapackage installs all components of the shell.
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
-
-Package: pantheon
-Architecture: amd64 arm64 armhf
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: Pantheon Desktop Environment
- Pantheon is a desktop environment based on GNOME with a strong focus on user
- experience. It's developed by elementary project.
- .
- This metapackage installs all Pantheon apps that are shipped with the OS by default.
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
-
-Package: elementary-sdk
-Architecture: amd64 arm64 armhf
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: elementary Developer Kit
- Contains recommended packages for developing applications for elementary OS.
-
-Package: elementary-live
-Architecture: amd64 arm64 armhf
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: elementary Live Settings
- Configuration for the elementary OS live session

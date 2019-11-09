@@ -9,16 +9,11 @@ cups
 cups-bsd
 cups-client
 cups-filters
-elementary-default-settings
-elementary-os-prerelease
-elementary-printer-test-page
 evince
 evolution-data-server-outlook
-evolution-data-server-pantheon-online-accounts
 file-roller
 fonts-arphic-ukai
 fonts-arphic-uming
-fonts-elementary-core
 fonts-kacst-one
 fonts-noto-cjk
 fonts-sil-padauk
@@ -70,8 +65,6 @@ ibus-table-quick-classic
 ibus-table-wubi
 ibus-unikey
 im-config
-io.elementary.dpms-helper
-io.elementary.onboarding
 kerneloops
 language-pack-bg
 language-pack-ca
@@ -138,12 +131,7 @@ network-manager-pptp-gnome
 orca
 p7zip-full
 packagekit
-pantheon-agent-geoclue2
-pantheon-agent-polkit
-pantheon-greeter
 pcmciautils
-plymouth-theme-elementary
-plymouth-theme-elementary-text
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -169,7 +157,7 @@ switchboard-plug-mouse-touchpad
 switchboard-plug-networking
 switchboard-plug-notifications
 switchboard-plug-online-accounts
-switchboard-plug-pantheon-shell
+switchboard-plug--shell
 switchboard-plug-parental-controls
 switchboard-plug-power
 switchboard-plug-printers

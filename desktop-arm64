@@ -4,8 +4,17 @@ anacron
 at-spi2-core
 bc
 ca-certificates
+cinnamon-*
+pluma-*
+eom-*
+atril-*
+gnome-mpv-*
+gthumb-*
+kimmo-*
+lightdm-*
+slick-greeter-*
 doc-base
-elementary-artwork
+ubuntucinnamon-artwork
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 genisoimage
@@ -22,7 +31,6 @@ libnotify-bin
 libsasl2-modules
 libu2f-udev
 openprinting-ppds
-pantheon
 printer-driver-pnm2ppa
 pulseaudio
 rfkill
