@@ -1,5 +1,5 @@
 ubuntucinnamon-meta (0.0.1) eoan; urgency=medium
 
-  * Initial release-copied from Elementary OS meta packages and edited over. Thanks to David Mohammed from Ubuntu Budgie for help on this.
+  * Initial release-copied from Elementary OS meta packages and edited over.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 8 Nov 2019 21:00:03 -0400
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 13 Nov 2019 21:15:34 -0400

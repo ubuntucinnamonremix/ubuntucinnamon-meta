@@ -3,7 +3,8 @@ Section: metapackages
 Priority: optional
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Standards-Version: 4.4.0
-Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+Homepage: https://github.com/ubuntucinnamonremix/ubuntu-cinnamon-environment
+Build-Depends: debhelper (>= 12), germinate (>= 2.32)
 
 Package: ubuntucinnamon-minimal
 Architecture: amd64 arm64
@@ -37,7 +38,7 @@ Description: CLI-only components of ubuntucinnamon OS
 
 Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64
-Depends: ${misc:Depends}, ${germinate:Depends}
+Depends: ${misc:Depends}, ${germinate:Depends}, cinnamon, atril, eom, gnome-mpv, gthumb, pluma
 Recommends: ${germinate:Recommends}
 Description: Complete desktop of ubuntucinnamon OS
  This metapackage installs the complete ubuntucinnamon desktop.

@@ -193,15 +193,14 @@ wswiss
 wukrainian
 xcursor-themes
 xdg-utils
-# cinnamon meta packages
-slick-greeter-*
-lightdm-*
-cinnamon-*
-pluma-*
-atril-*
-eom-*
-gthumb-*
-gnome-mpv-*
+slick-greeter
+lightdm
+cinnamon
+pluma
+atril
+eom
+gthumb
+gnome-mpv
 ubuntu-minimal
 kimmo-gtk-theme
 kimmo-icon-theme
@@ -210,7 +209,6 @@ net-tools
 resolvconf
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-@XORG_HWE
 rsyslog
 adduser
 apt
