@@ -5,7 +5,7 @@ ubuntucinnamon-meta (0.0.3) eoan; urgency=medium
   * Revised installed language packs
   * Changed changelog time from -0400 to -0500 due to EDT to EST.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 16 Nov @019 17:56:18 -0500
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 16 Nov 2019 17:56:18 -0500
 
 ubuntucinnamon-meta (0.0.2) eoan; urgency=medium
 
