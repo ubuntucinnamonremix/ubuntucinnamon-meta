@@ -4,7 +4,7 @@ Version: 0.0.1
 Architecture: amd64
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Installed-Size: 8
-Depends: adduser, apt, apt-utils, bzip2, console-setup, debconf, debconf-i18n, eject, init, initramfs-tools, iproute2, iputils-ping, isc-dhcp-client, kbd, kmod, less, locales, lsb-release, mawk, mount, netbase, netcat-openbsd, nplan, passwd, procps, python3, sensible-utils, sudo, tzdata, ubuntu-advantage-tools, ubuntu-keyring, udev, vim-tiny, whiptail
+Depends: adduser, apt, apt-utils, bzip2, console-setup, debconf, debconf-i18n, eject, init, initramfs-tools, less, locales, lsb-release, mount, netbase, nano, netcat-openbsd, passwd, python3, sensible-utils, sudo, ubuntu-advantage-tools, ubuntu-keyring, udev, vim-tiny, whiptail
 Recommends: rsyslog
 Section: metapackages
 Priority: optional

@@ -1,12 +1,21 @@
+ubuntucinnamon-meta (0.0.3) eoan; urgency=medium
+
+  * Removed elementary packages
+  * Added ubuntucinnamon-environment package to be installed
+  * Revised installed language packs
+  * Changed changelog time from -0400 to -0500 due to EDT to EST.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 16 Nov @019 17:56:18 -0500
+
 ubuntucinnamon-meta (0.0.2) eoan; urgency=medium
 
   * Changed package dependencies/fixed neccessaries
   * Removed arm64 files
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:25:59 -0400
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:25:59 -0500
 
 ubuntucinnamon-meta (0.0.1) eoan; urgency=medium
 
   * Initial release-copied from Elementary OS meta packages and edited over.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 13 Nov 2019 21:15:34 -0400
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 13 Nov 2019 21:15:34 -0500

@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 12), germinate (>= 2.32)
 
 Package: ubuntucinnamon-minimal
 Architecture: amd64 arm64
-Depends: ${misc:Depends}, ${germinate:Depends}, cinnamon-core
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Minimal core of ubuntucinnamon OS
  This metapackage depends on all of the packages in the ubuntucinnamon minimal system,
@@ -25,7 +25,7 @@ Description: Minimal core of ubuntucinnamon OS
 
 Package: ubuntucinnamon-standard
 Architecture: amd64 arm64
-Depends: ${misc:Depends}, ${germinate:Depends}, cinnamon
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of ubuntucinnamon OS
  This metapackage depends on most of non-GUI packages from ubuntucinnamon OS.
@@ -38,7 +38,7 @@ Description: CLI-only components of ubuntucinnamon OS
 
 Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64
-Depends: ${misc:Depends}, ${germinate:Depends}, cinnamon-desktop-environment, kimmo-gtk-theme, kimmo-icon-theme, ubuntucinnamon-wallpapers
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Complete desktop of ubuntucinnamon OS
  This metapackage installs the complete ubuntucinnamon desktop.
