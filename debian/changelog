@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.0.2) eoan; urgency=medium
+
+  * Changed package dependencies/fixed neccessaries
+  * Removed arm64 files
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:25:59 -0400
+
 ubuntucinnamon-meta (0.0.1) eoan; urgency=medium
 
   * Initial release-copied from Elementary OS meta packages and edited over.
