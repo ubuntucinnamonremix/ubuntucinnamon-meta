@@ -1,6 +1,7 @@
 slick-greeter
 lightdm
 cinnamon
+cinnamon-desktop-environment
 pluma
 atril
 eom
@@ -9,6 +10,7 @@ gnome-mpv
 ubuntu-minimal
 kimmo-gtk-theme
 kimmo-icon-theme
+ubuntucinnamon-wallpapers
 netplan.io
 net-tools
 resolvconf

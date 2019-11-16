@@ -5,6 +5,7 @@ bzip2
 console-setup
 debconf
 debconf-i18n
+cinnamon-core
 eject
 init
 initramfs-tools

@@ -5,6 +5,7 @@ at-spi2-core
 bc
 ca-certificates
 cinnamon
+cinnamon-desktop-environment
 pluma
 eom
 atril
@@ -13,7 +14,9 @@ gthumb
 lightdm
 slick-greeter
 doc-base
-ubuntucinnamon-artwork
+kimmo-gtk-theme
+kimmo-icon-theme
+ubuntucinnamon-wallpapers
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 genisoimage
