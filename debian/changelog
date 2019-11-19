@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (0.0.4) eoan; urgency=medium
+
+  * Removed evince
+  * Replaced gthumb with gnome-photos
+  * Added games
+  * Added other questionable packages
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 19 Nov 2019 18:48:36 -0500
+
 ubuntucinnamon-meta (0.0.3) eoan; urgency=medium
 
   * Removed elementary packages
