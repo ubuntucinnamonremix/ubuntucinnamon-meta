@@ -3,6 +3,11 @@ alsa-utils
 anacron
 cinnamon
 cinnamon-core
+pluma
+eom
+atril
+gnome-mpv
+gthumb
 lightdm
 slick-greeter
 doc-base
@@ -10,7 +15,6 @@ kimmo-gtk-theme
 kimmo-icon-theme
 ubuntucinnamon-wallpapers
 ubuntucinnamon-environment
-firefox
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 gnome-menus
