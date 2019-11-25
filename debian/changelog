@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (0.0.5) eoan; urgency=medium
+
+  * Replaced Krita with GIMP to save disk space
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 24 Nov 2019 19:16:15 -0500
+
 ubuntucinnamon-meta (0.0.4) eoan; urgency=medium
 
   * Removed evince
