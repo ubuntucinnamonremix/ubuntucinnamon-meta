@@ -1,7 +1,7 @@
 acpi-support
 avahi-autoipd
 pluma
-eom
+gthumb
 atril
 gnome-mpv
 gnome-photos
@@ -12,7 +12,11 @@ libreoffice-draw
 libreoffice-impress
 libreoffice-calc
 gnome-calculator
-geary
+thunderbird
+kimmo-gtk-theme
+kimmo-icon-theme
+ubuntucinnamon-environment
+ubuntucinnamon-wallpapers
 gimp
 four-or-more
 gnome-2048
