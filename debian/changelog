@@ -4,6 +4,8 @@ ubuntucinnamon-meta (0.0.6) eoan; urgency=medium
   * Made neccessary package changes in categories
   * Removed EOM
   * Added thunderbird as a mail client to replace Geary
+  
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 12:09:50 -0500
 
 ubuntucinnamon-meta (0.0.5) eoan; urgency=medium
 
