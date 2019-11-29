@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.0.6) eoan; urgency=medium
+
+  * Moved packages from needed to recommends
+  * Made neccessary package changes in categories
+  * Removed EOM
+  * Added thunderbird as a mail client to replace Geary
+
 ubuntucinnamon-meta (0.0.5) eoan; urgency=medium
 
   * Replaced Krita with GIMP to save disk space
