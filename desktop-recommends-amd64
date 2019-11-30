@@ -3,6 +3,9 @@ avahi-autoipd
 pluma
 gthumb
 atril
+snapd
+firefox
+update-notifier
 gnome-mpv
 gnome-photos
 gnome-font-viewer
@@ -13,6 +16,7 @@ libreoffice-impress
 libreoffice-calc
 gnome-calculator
 thunderbird
+dmz-cursor-theme
 kimmo-gtk-theme
 kimmo-icon-theme
 ubuntucinnamon-environment
