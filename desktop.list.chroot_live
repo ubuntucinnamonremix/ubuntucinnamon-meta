@@ -5,6 +5,10 @@ cifs-utils
 lupin-casper
 language-pack-en
 calamares-settings-cinnamon-remix
+qml-module-qtquick-dialogs
+qml-module-qtquick-layouts
+qml-module-qtquick-controls
+qml-module-qtquick-window2
 ubuntucinnamon-wallpapers
 ubuntucinnamon-environment
 kimmo-gtk-theme
