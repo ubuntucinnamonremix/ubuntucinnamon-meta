@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.0.8) eoan; urgency=medium
+
+  * Added gnome-software-plugin-snap as a recommend
+  * Final version for 19.10
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 30 Nov 2019 14:44:08 -0500
+
 ubuntucinnamon-meta (0.0.7) eoan; urgency=medium
 
   * Added firefox, snapd, dmz-cursor-black (Solves Issue #17)
