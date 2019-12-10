@@ -1,3 +1,17 @@
+ubuntucinnamon-meta (0.0.9) eoan; urgency=medium
+
+  * Added LibreOffice GTK packages
+  * Removed all EOM
+  * Added gnome-screenshot
+  * Added timeshot
+  * Removed live packages from recommends-will be installed on live iso.
+  * Added minimal cinnamon packages to minimal
+  * Added standard cinnamon packages to standard
+  * Removed chroot - live install
+  * Renamed live
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 10 Dec 2019 17:11:28 -0500
+
 ubuntucinnamon-meta (0.0.8) eoan; urgency=medium
 
   * Added gnome-software-plugin-snap as a recommend
