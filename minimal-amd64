@@ -2,6 +2,10 @@ adduser
 apt
 apt-utils
 bzip2
+cinnamon-core
+gcc
+lightdm
+slick-greeter
 console-setup
 debconf
 debconf-i18n
@@ -12,11 +16,13 @@ initramfs-tools
 iproute2
 iputils-ping
 isc-dhcp-client
+kmod
 less
 locales
 lsb-release
 mount
 netbase
+netplan.io
 netcat-openbsd
 passwd
 python3
