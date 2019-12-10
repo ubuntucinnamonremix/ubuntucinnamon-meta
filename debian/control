@@ -3,7 +3,7 @@ Section: metapackages
 Priority: optional
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Standards-Version: 4.4.0
-Homepage: https://github.com/ubuntucinnamonremix/ubuntu-cinnamon-environment
+Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-meta
 Build-Depends: debhelper (>= 12), germinate (>= 2.32)
 
 Package: ubuntucinnamon-minimal
@@ -24,7 +24,7 @@ Description: Minimal core of ubuntucinnamon OS
  it not be removed.
 
 Package: ubuntucinnamon-standard
-Architecture: amd64 arm64
+Architecture: amd64 arm64 armhf
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of ubuntucinnamon OS
