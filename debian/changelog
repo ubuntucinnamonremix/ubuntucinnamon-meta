@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (0.1) focal; urgency=medium
+
+  * Updated eoan to focal
+
+  * Moved packages from standard to standard-recommends (Solves issue #23)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 13 Dec 2019 17:22:58 -0500
+
 ubuntucinnamon-meta (0.0.9) eoan; urgency=medium
 
   * Added LibreOffice GTK packages
