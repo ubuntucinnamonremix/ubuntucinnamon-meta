@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (0.1.1) focal; urgency=medium
+
+  * Updated update.cfg from eoan to focal
+
+  * Added more GTK themes
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 25 Dec 2019 15:57:57 -0500
+
 ubuntucinnamon-meta (0.1) focal; urgency=medium
 
   * Updated eoan to focal
